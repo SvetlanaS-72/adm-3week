@@ -1,1 +1,30 @@
-[{"id":1,"title":"Crystal Keeper","description":"Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космослизней.","image":"https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png","link":"https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html"},{"id":2,"title":"Dangeons'n'Caves. Prologue","description":"Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.","image":"https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png","link":"https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html"},{"id":3,"title":"G.U.N.N.E.R.","image":"https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png","link":"https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html","description":"Продержись как можно дольше"},{"id":4,"title":"Пираты карибского моря","image":"https://wpapers.ru/wallpapers/films/Avatar/14948/3840x2400_Пираты-Карибского-моря.jpg","link":"https://wpapers.ru/wallpapers/films/Avatar/14948/3840-2400_Пираты-Карибского-моря.html","description":"Сражайся с морскими чудищами, чтобы получить золотые монеты и ром. "}]
+[
+  {
+    "id": 1,
+    "title": "Crystal Keeper",
+    "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космослизней.",
+    "image": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html"
+  },
+  {
+    "id": 2,
+    "title": "Dangeons'n'Caves. Prologue",
+    "description": "Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.",
+    "image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html"
+  },
+  {
+    "id": 3,
+    "title": "G.U.N.N.E.R.",
+    "image": "https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png",
+    "link": "https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html",
+    "description": "Продержись как можно дольше"
+  },
+  {
+    "id": 4,
+    "title": "Пираты карибского моря",
+    "image": "https://wpapers.ru/wallpapers/films/Avatar/14948/3840x2400_Пираты-Карибского-моря.jpg",
+    "link": "https://wpapers.ru/wallpapers/films/Avatar/14948/3840-2400_Пираты-Карибского-моря.html",
+    "description": "Сражайся с морскими чудищами, чтобы получить золотые монеты и ром. "
+  }
+]
